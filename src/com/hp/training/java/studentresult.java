@@ -2,7 +2,7 @@ package com.hp.training.java;
 
 import java.util.Scanner;
 
-public class studentresult {
+public class studentresult 
 	int rollno;
 	int engmark, mathmark;
 	double percentage=0.0;
