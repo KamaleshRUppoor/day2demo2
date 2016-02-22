@@ -1,6 +1,6 @@
 package com.hp.training.java;
 
- java.util.Scanner;
+import java.util.Scanner;
 
 public class studentresult{
 	int rollno;
